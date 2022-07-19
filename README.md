@@ -81,5 +81,4 @@ Let's deploy now:
 
 ```sh
 serverless deploy
-```"# service_pay_worker" 
-"# service_pay_worker" 
+```
